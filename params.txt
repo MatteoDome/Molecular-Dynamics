@@ -1,0 +1,8 @@
+864        Number of particles
+1.0        Density
+1.0        Temperature
+10000      Iterations
+250        Iterations until equilibrium
+0.004      Time step
+0          Do plots (boolean)
+250        Size of correlated blocks (in iterations)
